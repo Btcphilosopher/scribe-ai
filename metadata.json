@@ -1,0 +1,6 @@
+{
+  "name": "ScribeAI",
+  "description": "An interactive document creative platform, active recall hub, mind-map sandbox, and audio studio powered by Gemini 3.5 AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
